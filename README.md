@@ -1,18 +1,27 @@
 ### Hi! 👋
 
 **Welcome to my github profile! This is Mixologist Dev, a self taught developer constantly learning new things.**
-### 💡 Skills & Experience
-* 🌐 Web development experience with HTML, CSS, and a bit of React.
-* ⚙️ Backend development experience with Typescript, JavaScript, Python, PHP and Express.
-* 🔩 Software development experience with C and C++ still learning.
-* 🗃️ Familiar with database applications such as MYSQL and MongoDB.
-* 🗨 I'm Bilingual I speak English and Spanish fluently.
 
-### 🌐 Contact Information
-* ![](smalldiscord.png) **Discord** - glock#0690
-* ![](smallsteam.png) **Steam** - [id/luaterrorist](https://steamcommunity.com/id/luaterrorist)
- <br>
- <img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/my_skills.png" width="60%" height="60%">
- <img src="https://raw.githubusercontent.com/Mixologist6105/Mixologist6105/b4015f0f2c5a41d7224d14dba2649f815ce4ef36/srcs/grid-snake.svg">
+**This is my Personal Website** - [MixoWorld](https://www.mixoworld.info/)
+
+### 💡 Skills
+* 🌐 Web Development / 网站开发 -- 高质量网站开发. High-quality development of sites at the professional level.
+* ⚙️ Community Build -- 搭建Discord等社交平台的大型社区. Build a large community of social platforms such as Discord.
+* 🔩 UI Design / UI 设计 -- 最现代化,高品质的设计. The most modern and high-quality design made at a professional level.
+* 🗃️ Video Production -- 制作任何类别的高质量照片/视频. Make high-quality photos/Videos.
+* 🗨 I'm Bilingual I speak English and 中文Chinese.
+<img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/my_skills.png" width="40%" height="40%">
+ 
+### ☁️ Contact Info
+
+* **Discord** - Mixologist#6105
+* **Steam** - [Mixologist.](https://steamcommunity.com/id/Mixologist6105)
+* **VK** - [Mixologist 6105](https://vk.com/mixologist6105)
+* **Bilibili-哔哩哔哩** - [Mixologist 1337](https://space.bilibili.com/295386735)
+* **YouTube** - [Mixologist](https://www.youtube.com/channel/UCujbzZXOD5VqeRl-IVB2Ypw)
+* **网易云Music** - [Mixologist.](http://music.163.com/m/user/home?id=611297376)
+
+ <div align=center><img src="https://raw.githubusercontent.com/Mixologist6105/Mixologist6105/b4015f0f2c5a41d7224d14dba2649f815ce4ef36/srcs/grid-snake.svg"></div>
 
 <h1 align="center"><i>Stay awesome!</i></h1>
+
