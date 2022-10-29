@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! 👋</h1>
 
 <p align="center">
-    Welcome to my github profile! This is Mixologist Dev, a self taught developer constantly learning new things.
+    **Welcome to my github profile! This is Mixologist Dev, a self taught developer constantly learning new things.**
     
   <br><br>
   <img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/Mixologist_prim.gif">
