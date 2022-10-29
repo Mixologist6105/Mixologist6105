@@ -2,9 +2,9 @@
 
 **Welcome to my github profile! This is Mixologist Dev, a self taught developer constantly learning new things.**
 
-**This is my Personal Website** - [MixoWorld](https://www.mixoworld.info/)
+**This is my Personal Website :)** - [MixoWorld](https://www.mixoworld.info/)
 
-### 💡 Skills
+### 💡 My Skills
 * 🌐 Web Development / 网站开发 -- 高质量网站开发. High-quality development of sites at the professional level.
 * ⚙️ Community Build -- 搭建Discord等社交平台的大型社区. Build a large community of social platforms such as Discord.
 * 🔩 UI Design / UI 设计 -- 最现代化,高品质的设计. The most modern and high-quality design made at a professional level.
