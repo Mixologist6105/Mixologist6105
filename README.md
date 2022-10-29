@@ -1,13 +1,13 @@
-<h1 align="center"> Hi! 👋</h1>
+### Hi! 👋
 
-<p align="center">Welcome to my github profile! This is Mixologist Dev, a self taught developer constantly learning new things.
+**Welcome to my github profile! This is Mixologist Dev, a self taught developer constantly learning new things.**
 ### 💡 Skills & Experience
 * 🌐 Web development experience with HTML, CSS, and a bit of React.
 * ⚙️ Backend development experience with Typescript, JavaScript, Python, PHP and Express.
 * 🔩 Software development experience with C and C++ still learning.
 * 🗃️ Familiar with database applications such as MYSQL and MongoDB.
 * 🗨 I'm Bilingual I speak English and Spanish fluently.
-</p>
+
 ### 🌐 Contact Information
 * ![](smalldiscord.png) **Discord** - glock#0690
 * ![](smallsteam.png) **Steam** - [id/luaterrorist](https://steamcommunity.com/id/luaterrorist)
