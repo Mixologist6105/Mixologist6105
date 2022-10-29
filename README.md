@@ -4,8 +4,7 @@
     Welcome to my github profile! This is Mixologist Dev, a self taught developer constantly learning new things.
     
   <br>
-  <img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/my_skills.png" width="50%" height="50%">
-  <img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/Mixologist_prim.gif" width="50%" height="50%">
+  <img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/my_skills.png" width="60%" height="60%">
   <img src="https://raw.githubusercontent.com/Mixologist6105/Mixologist6105/b4015f0f2c5a41d7224d14dba2649f815ce4ef36/srcs/grid-snake.svg">
 </p>
 
