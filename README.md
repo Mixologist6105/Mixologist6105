@@ -10,7 +10,7 @@
 * 🔩 UI Design / UI 设计 -- 最现代化,高品质的设计. The most modern and high-quality design made at a professional level.
 * 🗃️ Video Production -- 制作任何类别的高质量照片/视频. Make high-quality photos/Videos.
 * 🗨 I'm Bilingual I speak English and 中文Chinese.
-<img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/my_skills.png" width="40%" height="40%">
+<img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/my_skills.png" width="50%" height="50%">
  
 ### ☁️ Contact Info
 
