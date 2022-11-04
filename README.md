@@ -4,7 +4,7 @@
 
 ### **Welcome to my github profile! This is Mixologist Dev, a developer who loves coding.**
 
-### This is my Personal Website :) - [MixoWorld](https://www.mixoworld.info/)
+### This is my Personal Website :) - [Mixoworld.info](https://www.mixoworld.info/)
 <div align=center><img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/rainbow_bar.gif"></div>
 
 # My Skills 💡
@@ -14,7 +14,7 @@
 #### * 🗃️ Video Production -- 制作任何类别的高质量照片/视频. Make high-quality photos/Videos.
 #### * 🗨 I'm Bilingual, I speak English and 中文Chinese.
 
-<img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/my_skills.png" width="50%" height="50%">
+<img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/my_skills.png" width="65%" height="65%">
 <div align=center><img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/rainbow_bar.gif"></div>
 
 # Contact Info ☁️
@@ -24,8 +24,6 @@
 #### * Bilibili-哔哩哔哩 - [[ Mixologist 1337 ]](https://space.bilibili.com/295386735)
 #### * YouTube - [[ Mixologist ]](https://www.youtube.com/channel/UCujbzZXOD5VqeRl-IVB2Ypw)
 #### * 网易云Music - [[ Mixologist. ]](https://music.163.com/#/user/home?id=611297376)
-
- <div align=center><img src="https://raw.githubusercontent.com/Mixologist6105/Mixologist6105/b4015f0f2c5a41d7224d14dba2649f815ce4ef36/srcs/grid-snake.svg"></div>
 
 <h1 align="center"><i>Stay awesome!</i></h1>
 
