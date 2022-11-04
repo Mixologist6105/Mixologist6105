@@ -2,7 +2,7 @@
 
 # Hi! 👋
 
-### **Welcome to my github profile! This is Mixologist Dev, a self taught developer constantly learning new things.**
+### **Welcome to my github profile! This is Mixologist Dev, a developer who loves coding.**
 
 ### This is my Personal Website :) - [MixoWorld](https://www.mixoworld.info/)
 <div align=center><img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/rainbow_bar.gif"></div>
