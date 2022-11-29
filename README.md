@@ -21,9 +21,7 @@
 #### * Discord - Mixologist#6105
 #### * Steam - [[ Mixologist. ]](https://steamcommunity.com/id/Mixologist6105)
 #### * VK - [[ Mixologist 6105 ]](https://vk.com/mixologist6105)
-#### * Bilibili-哔哩哔哩 - [[ Mixologist 1337 ]](https://space.bilibili.com/295386735)
 #### * YouTube - [[ Mixologist ]](https://www.youtube.com/channel/UCujbzZXOD5VqeRl-IVB2Ypw)
-#### * 网易云Music - [[ Mixologist. ]](https://music.163.com/#/user/home?id=611297376)
 
 <h1 align="center"><i>Stay awesome!</i></h1>
 
