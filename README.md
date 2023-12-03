@@ -2,7 +2,7 @@
 
 <div align=center><img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/thunder_bar.gif"></div>
 
-# Hi!
+# Hi !
 ### This is ***theMixo (Mixologist)***, welcome to my github profile!
 ### A developer who loves coding.
 
