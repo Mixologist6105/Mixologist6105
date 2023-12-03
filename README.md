@@ -1,10 +1,9 @@
-<div align=center><img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/thunder_bar.gif"></div>
-
 # Hi! 👋
 
-### **Welcome to my github profile! This is Mixologist Dev, a developer who loves coding.**
+### **Welcome to my github profile! This is theMixo, a developer who loves coding.**
 
-### This is my Personal Website :) - [Mixoworld.info](https://www.mixoworld.info/)
+<div align=center><img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/trans.png"></div>
+
 <div align=center><img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/rainbow_bar.gif"></div>
 
 # My Skills 💡
@@ -18,10 +17,10 @@
 <div align=center><img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/rainbow_bar.gif"></div>
 
 # Contact Info ☁️
-#### * Discord - Mixologist#6105
+#### * Discord - theMixo_101 (Mixologist#6105)
 #### * Steam - [[ Mixologist. ]](https://steamcommunity.com/id/Mixologist6105)
 #### * VK - [[ Mixologist 6105 ]](https://vk.com/mixologist6105)
-#### * YouTube - [[ Mixologist ]](https://www.youtube.com/channel/UCujbzZXOD5VqeRl-IVB2Ypw)
+#### * YouTube - [[ theMixo ]](https://www.youtube.com/channel/UCujbzZXOD5VqeRl-IVB2Ypw)
 
 <h1 align="center"><i>Stay awesome!</i></h1>
 
