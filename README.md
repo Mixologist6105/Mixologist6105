@@ -44,3 +44,5 @@
 <h1 align="center"><i>Stay awesome!</i></h1>
 
 <div align=center><img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/thunder_bar.gif"></div>
+
+<div align=center><img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/grid-snake.svg"></div>
