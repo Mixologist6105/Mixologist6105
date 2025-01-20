@@ -2,8 +2,7 @@
 <div align=center><img src="https://github.com/Mixologist6105/Mixologist6105/blob/main/srcs/trans.png" width="70%" height="70%"></div>
 
 # Hi !
-### This is ***theMixo (Mixologist)***, welcome to my github profile!
-### A developer from China.
+### This is ***theMixo (Mixologist)***.
 
 # My Skills 💡  
 > **🔩 C#, Python 开发 -- 高性能, 高质量软件开发 (.Net 8.0, WPF)**
