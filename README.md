@@ -6,18 +6,18 @@
 ### A developer from China.
 
 # My Skills 💡  
-> **🔩 C#,Python / C#,Python 开发 -- 高性能软件开发 (.Net 8.0, WPF)**
+> **🔩 C#,Python 开发 -- 高性能, 高质量软件开发 (.Net 8.0, WPF)**
 > 
-> **🌐 Web Development / 网站开发 -- 高质量网站开发 (HTML / CSS / Javascript)**
+> **🌐 Web Development -- 高质量网站开发 (HTML / CSS / Javascript)**
 > 
-> **⚙️ Community Build -- 搭建Discord等社交平台的大型社区.**
+> **⚙️ Community Build -- 搭建/管理 Discord 等社交平台的大型社区.**
 > 
-> **🔩 UI Design / UI 设计 -- 最现代化,高品质的设计.**
+> **🔩 UI Design -- 最现代化,高品质的设计.**
 > 
 > **🗃️ Video Edit**
 
 # Contact Info ☁️
-#### Discord: theMixo_101 (Mixologist#6105)
+#### Discord: themixo_101 (Mixologist#6105)
 #### YouTube: ***[ theMixo_101 ](https://www.youtube.com/channel/UCujbzZXOD5VqeRl-IVB2Ypw)***
 ````
  MySelf = {
