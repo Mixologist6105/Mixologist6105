@@ -17,8 +17,6 @@
 > **🗃️ Video Edit**
 
 # Contact Info ☁️
-#### Discord: themixo_101 (Mixologist#6105)
-#### YouTube: ***[ theMixo_101 ](https://www.youtube.com/channel/UCujbzZXOD5VqeRl-IVB2Ypw)***
 ````
  MySelf = {
     Bilibili = "theMixo",
